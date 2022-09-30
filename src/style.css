@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    width: 7000px;
+    background-color:rgb(10, 10, 112);
+    color: white;
+}
+.menu{
+ align-self: center;
+    color: white;
+
+}
+.portfolio,.about,.contact{
+    color: white;
+    text-align: end;
+}
+.startbootstrap{
+    background-color: #1abc9c;
+}
